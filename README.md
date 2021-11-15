@@ -12,12 +12,12 @@ Welcome to my GitHub repository. Here you will mostly find projects that I have 
   ❤️ I primiraly write in javascript and node.js but am learning new languages as much as I can.
 
   💬 Currently I have co-developed two repositories for discord
-    1. An art focused bot named Annie
-      1. shboard](https://www.annie.gg)
-      2. Invite to your discord server](https://discord.com/oauth2/authorize?client_id=501461775821176832&permissions=268823638&scope=bot)
-      [![Discord Bots](https://top.gg/api/widget/501461775821176832.svg)](https://top.gg/bot/501461775821176832)
-    2. A bot to delete links from discord chats *In Development*
-      * Want to submit new known potentionally malicious links. [Submit here](https://github.com/hugonun/delink-bot/issues/4)
+  1. An art focused bot named Annie
+    a. shboard](https://www.annie.gg)
+    b. Invite to your discord server](https://discord.com/oauth2/authorize?client_id=501461775821176832&permissions=268823638&scope=bot)
+  [![Discord Bots](https://top.gg/api/widget/501461775821176832.svg)](https://top.gg/bot/501461775821176832)
+  4. A bot to delete links from discord chats *In Development*
+    a. Want to submit new known potentionally malicious links. [Submit here](https://github.com/hugonun/delink-bot/issues/4)
 * Bullet 1
 * Bullet 2
   * Bullet 2a
