@@ -13,8 +13,13 @@ Welcome to my GitHub repository. Here you will mostly find projects that I have 
 
   💬 Currently I have co-developed two repositories for discord
     1. An art focused bot named Annie
-      * [Dashboard](https://www.annie.gg)
-      * [Invite to your discord server](https://discord.com/oauth2/authorize?client_id=501461775821176832&permissions=268823638&scope=bot)
+      1. shboard](https://www.annie.gg)
+      2. Invite to your discord server](https://discord.com/oauth2/authorize?client_id=501461775821176832&permissions=268823638&scope=bot)
       [![Discord Bots](https://top.gg/api/widget/501461775821176832.svg)](https://top.gg/bot/501461775821176832)
     2. A bot to delete links from discord chats *In Development*
       * Want to submit new known potentionally malicious links. [Submit here](https://github.com/hugonun/delink-bot/issues/4)
+* Bullet 1
+* Bullet 2
+  * Bullet 2a
+  * Bullet 2b
+* Bullet 3
