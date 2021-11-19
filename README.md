@@ -18,5 +18,7 @@ Welcome to my GitHub repository. Here you will mostly find projects that I have 
   [![Discord Bots](https://top.gg/api/widget/501461775821176832.svg)](https://top.gg/bot/501461775821176832)
   
   * A bot to delete links from discord chats \**In Development\**
+    * [Repo](https://github.com/hugonun/delink-bot) (parent)
+    * [Repo](https://github.com/Moore2021/delink-bot) (My fork)
     * Want to submit new known potentionally malicious links. [Submit here](https://github.com/hugonun/delink-bot/issues/4)
 
