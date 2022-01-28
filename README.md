@@ -2,11 +2,6 @@
 
 Welcome to my GitHub repository. Here you will mostly find projects that I have worked on from school or general side projects.
 
-[![Moore2021's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moore2021&show_icons=true&layout=compact&theme=dark)](https://github.com/stuyy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moore2021&exclude_repo=Mooreaj2021&theme=dark)](https://github.com/stuyy)
-
-
 ## About Me
   
   ❤️ I primiraly write in javascript and node.js but am learning new languages as much as I can.
@@ -21,4 +16,3 @@ Welcome to my GitHub repository. Here you will mostly find projects that I have 
     * [Repo](https://github.com/hugonun/delink-bot) (parent)
     * [Repo](https://github.com/Moore2021/delink-bot) (My fork)
     * Want to submit new known potentionally malicious links. [Submit here](https://github.com/hugonun/delink-bot/issues/4)
-
